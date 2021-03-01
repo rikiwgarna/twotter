@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>.
-      Ignore me. This is just a testing for project create with VueJS and using github as platform to work collaboratively
+      Ignore me. This is just a testing for project create with VueJS and using github as platform to work collaboratively. Thank you!
     </p>
   </div>
 </template>
